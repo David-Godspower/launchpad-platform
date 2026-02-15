@@ -284,9 +284,9 @@ This project is licensed under the MIT License.
 ## 👨‍💻 Author
 
 **David Godspower Ajala**
-- Portfolio: [https://david-godspower.github.io/david-portfolio/]
-- GitHub: [David-Godspower]
-- LinkedIn: [https://www.linkedin.com/in/david-godspower-ajala/]
+- Portfolio: [David Godspower Ajala](https://david-godspower.github.io/david-portfolio/)
+- GitHub: [David-Godspower](https://github.com/David-Godspower)
+- LinkedIn: [https://www.linkedin.com/in/david-godspower-ajala/](David Godspower Ajala)
 
 ## 🙏 Acknowledgments
 
@@ -296,4 +296,4 @@ This project is licensed under the MIT License.
 - Built as part of the Frontend Internship at NotWorking
 
 ---
-*Submitted by David Godspower Ajala for the Backend Assessment Task.*
+*Submitted by David Godspower Ajala for the Frontend Internship Task with NotWorking.*
