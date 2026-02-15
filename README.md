@@ -91,7 +91,7 @@ launchpad-platform/
 
 1. **Clone or download the repository**
 ```bash
-git clone <your-repo-url>
+git clone git@github.com:David-Godspower/launchpad-platform.git
 cd launchpad-platform
 ```
 
@@ -266,34 +266,6 @@ yarn preview
 - [ ] Mobile app (React Native)
 - [ ] Internationalization (i18n)
 
-## 📊 State Management
-
-Currently using **React useState** for local component state. For future scaling:
-- Consider **Context API** for global state
-- Or **Zustand/Redux** for complex state management
-
-## 🌐 Deployment
-
-### Recommended Platforms
-1. **Vercel** (Recommended)
-   - Automatic deployments from Git
-   - Free tier available
-   - Optimized for React/Vite
-   
-2. **Netlify**
-   - Drag-and-drop deployment
-   - Continuous deployment
-   - Form handling
-
-3. **GitHub Pages**
-   - Free hosting
-   - Custom domains
-
-### Deployment Steps (Vercel)
-1. Push code to GitHub
-2. Import project in Vercel
-3. Configure build settings (auto-detected for Vite)
-4. Deploy!
 
 ## 🤝 Contributing
 
@@ -311,10 +283,10 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-**Your Name**
-- Portfolio: [your-portfolio.com]
-- GitHub: [@yourusername]
-- LinkedIn: [Your LinkedIn]
+**David Godspower Ajala**
+- Portfolio: [https://david-godspower.github.io/david-portfolio/]
+- GitHub: [David-Godspower]
+- LinkedIn: [https://www.linkedin.com/in/david-godspower-ajala/]
 
 ## 🙏 Acknowledgments
 
