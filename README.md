@@ -286,7 +286,7 @@ This project is licensed under the MIT License.
 **David Godspower Ajala**
 - Portfolio: [David Godspower Ajala](https://david-godspower.github.io/david-portfolio/)
 - GitHub: [David-Godspower](https://github.com/David-Godspower)
-- LinkedIn: [https://www.linkedin.com/in/david-godspower-ajala/](David Godspower Ajala)
+- LinkedIn: [David Godspower Ajala](https://www.linkedin.com/in/david-godspower-ajala/)
 
 ## 🙏 Acknowledgments
 
