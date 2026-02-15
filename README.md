@@ -321,10 +321,7 @@ This project is licensed under the MIT License.
 - Icons by [Lucide Icons](https://lucide.dev/)
 - Fonts by [Google Fonts](https://fonts.google.com/)
 - Design inspiration from modern SaaS platforms
-- Built as part of the Frontend Challenge
+- Built as part of the Frontend Internship at NotWorking
 
 ---
-
-**Made with ❤️ for students worldwide**
-
-For questions or support, please open an issue on GitHub.
+*Submitted by David Godspower Ajala for the Backend Assessment Task.*
